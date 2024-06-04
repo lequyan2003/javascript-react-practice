@@ -1,0 +1,6 @@
+[submodule "javascript-practice"]
+	path = javascript-practice
+	url = https://github.com/lequyan2003/javascript-practice.git
+[submodule "react-hooks"]
+	path = react-hooks
+	url = https://github.com/lequyan2003/react-hooks-practice.git
